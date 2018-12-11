@@ -9,8 +9,11 @@ public class Calculator {
 		int b = 5;
 		
 		int add = a + b;
-		System.out.println("Hasilnya = "+ add);
+		System.out.println("Hasil Jumlah = "+add);
 
+		int sub = a - b;
+		System.out.println("Hasil Kurang = "+sub);
+		
 	}
 
 }
