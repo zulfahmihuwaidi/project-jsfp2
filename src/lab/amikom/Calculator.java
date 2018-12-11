@@ -10,6 +10,9 @@ public class Calculator {
 		
 		int add = a + b;
 		System.out.println("Hasilnya = "+ add);
+		
+		int sup = a * b;
+		System.out.println("Hasil Perkalian = "+sup);
 
 	}
 
